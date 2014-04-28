@@ -29,5 +29,5 @@ src_compile()
 
 src_install()
 {
-	dobin $WORKDIR/$P/bin/tracer || die "install tracer failed"
+	newbin $WORKDIR/$P/bin/tracer.py tracer || die "install tracer failed"
 }
