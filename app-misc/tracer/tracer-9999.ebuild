@@ -8,7 +8,7 @@ inherit git-2
 
 DESCRIPTION="Tracer finds outdated running applications in your system"
 HOMEPAGE="https://github.com/FrostyX/tracer"
-EGIT_REPO_URI="git@github.com:FrostyX/tracer.git"
+EGIT_REPO_URI="http://github.com/frostyx/tracer.git"
 EGIT_BRANCH="develop"
 SRC_URI=""
 
