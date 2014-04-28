@@ -18,6 +18,6 @@ Then create file `/var/lib/layman/frostyx.xml`
 			<owner>
 				<email>frostyx@email.cz</email>
 			</owner>
-			<source type="git">git@github.com:FrostyX/gentoo-overlay.git</source>
+			<source type="git">https://github.com/FrostyX/gentoo-overlay.git</source>
 		</repo>
 	</repositories>
