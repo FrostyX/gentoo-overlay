@@ -21,3 +21,5 @@ Then create file `/var/lib/layman/frostyx.xml`
 			<source type="git">https://github.com/FrostyX/gentoo-overlay.git</source>
 		</repo>
 	</repositories>
+
+Now you can activate it using `layman -fa frostyx`
