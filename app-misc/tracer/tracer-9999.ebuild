@@ -19,7 +19,7 @@ IUSE=""
 
 DEPEND=""
 RDEPEND="dev-lang/python
-	<dev-python/psutil-2.0.0
+	>dev-python/psutil-2.0.0
 	dev-python/beautifulsoup
 	app-portage/eix
 	app-portage/portage-utils
